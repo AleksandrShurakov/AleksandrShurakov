@@ -3,9 +3,14 @@
 </p>
 
 ## About Me:  
-🧔 Aleksandr Shurakov, 28 y.o.  
-🖥️ school21 student, learning ds&&ml  
+🧔 Aleksandr Shurakov 
+🖥️ School21 student, Learning DS and ML  
 👨‍🎓 Computer Science Engineering  
 🌇 Moscow, Russia
+
+
+## Connect with me:
+[![Telegram](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://t.me/rngmaster)
+
 
 
