@@ -3,7 +3,7 @@
 </p>
 
 ## About Me:  
-🧔 Aleksandr Shurakov 
+🧔 Aleksandr Shurakov   
 🖥️ School21 student, Learning DS and ML  
 👨‍🎓 Computer Science Engineering  
 🌇 Moscow, Russia
