@@ -4,8 +4,7 @@
 
 ## About Me:  
 🧔 Aleksandr Shurakov   
-🖥️ School21 student, Learning DS and ML  
-👨‍🎓 Digging into ML and NLP stuff   
+🖥️ School21 student, learning DS and ML    
 🌇 Moscow, Russia
 
 ## Languages and Tools:
