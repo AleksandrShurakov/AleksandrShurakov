@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/RNGsus1/AleksandrShurakov/blob/main/img/7rb" height="400"/>
+  <img src="https://github.com/RNGsus1/AleksandrShurakov/blob/main/img/7rb.jpg" height="400"/>
 </p>
 
 ## About Me:  
